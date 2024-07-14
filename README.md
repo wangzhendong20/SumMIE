@@ -1,2 +1,2 @@
 # Code for SumMIE Training
-> The final version will be updated after code cleaning.
+> The complete version will be updated after code cleaning.
